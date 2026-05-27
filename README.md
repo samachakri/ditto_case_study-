@@ -1,1 +1,0 @@
-# ditto_case_study-
